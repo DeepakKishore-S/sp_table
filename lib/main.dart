@@ -4,7 +4,7 @@ import 'package:sp_task2/shared.dart';
 //import 'package:sharedpreference_task/registry.dart';
 
 void main() {
-  runApp(TableData());
+  runApp(const TableData());
 }
 
 class TableData extends StatefulWidget {
